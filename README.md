@@ -12,4 +12,6 @@
 
 4.**Boolen**: There are only two values in the boolen they are *True* or *False*<br>
 
+How to check the datatype given by me is of which type?<br>
 
+type() method will let us know it is of which datatype<br>
